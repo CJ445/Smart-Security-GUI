@@ -6,5 +6,3 @@ This is the code for a Python GUI app for an IoT project.
 ![GUI-data](https://github.com/CJ445/Smart-Security-GUI/assets/131938772/7e08b690-ab13-414d-9aac-221fa2c4f20e)
 
 Pre-requisites (Will be explained in detail soon)
-
-![image](https://github.com/CJ445/Smart-Security-GUI/assets/131938772/608d9712-0e3d-434e-9fa4-44718f425973)
